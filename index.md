@@ -20,4 +20,4 @@ This Application does not collect precise information about the location of your
 Since the Application does not collect any information, no data is shared with third partie
 
 
-[Contact Us](usefullindieapps@gmail.com)
+**Contact Us :** usefullindieapps@gmail.com
